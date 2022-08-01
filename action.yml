@@ -1,4 +1,4 @@
-name: 'GitHub Action for Gatsby CLI'
+name: 'GitHub Action for Gatsby CLI node 18'
 description: 'This Action wraps the Gatsby CLI to enable common Gatsby commands.'
 inputs:
   gatsby-arg:
